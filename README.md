@@ -9,3 +9,4 @@
 - 🇨🇳 中文
 - 🏔 mountain hiking
 
+[Link do sforkowanego repozytorium](https://github.com/KarolinaKaczmarczyk1/transformers)
