@@ -9,5 +9,5 @@
 - 🇨🇳 中文
 - 🏔 mountain hiking
 
-[Link do sforkowanego repozytorium](https://github.com/KarolinaKaczmarczyk1/transformers)
+[Link do sforkowanego repozytorium](https://github.com/KarolinaKaczmarczyk1/transformers) \
 [Link do artykułu na Papers with Code](https://paperswithcode.com/paper/improving-language-understanding-by)
