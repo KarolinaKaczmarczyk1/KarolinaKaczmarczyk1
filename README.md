@@ -5,4 +5,4 @@
 - 🌱 I’m currently learning Python
 
 ## Hobby
-- 🇨🇳 中文
+- 中文
